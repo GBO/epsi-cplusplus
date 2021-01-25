@@ -1,4 +1,10 @@
-# Support de cours EPSI : Langage C++
+---
+marp: true
+class: invert
+theme: gaia
+---
+
+# Support de cours : Langage C++
 
 
 # Première séance
@@ -40,6 +46,9 @@ Sous forme d'exercices à l'image des travaux dirigés : 4-5 exercices.
 
 ## Quelques ressources bibliographiques
 * [Programmez avec le langage C++ - OpenClassrooms](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c)
+* [La programmation en C++ moderne - Zeste de Savoir](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne)
+* [Learn C++ - w3schools [EN]](https://www.w3schools.com/cpp/default.asp) (avec exercices corrigés)
+* [C++ Exercises - w3resource [EN]](https://www.w3resource.com/cpp-exercises/)
 * [C++ Syntax Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md)
 * Références C++ :
   * [cplusplus.com](https://www.cplusplus.com/)
