@@ -114,7 +114,8 @@ Tous ces outils sont accessibles gratuitement pour les étudiants :
 * [Code::Blocks](http://www.codeblocks.org/) : Très souvent utilisé en éducation.
 * [JetBrains CLion](https://www.jetbrains.com/clion) : J'ai découvert très récemment, mais semble très bien.
 * [Visual Studio](https://visualstudio.microsoft.com/fr/) : Outil Microsoft très réputé et très puissant : historiquement le meilleur.
-* [Visual Studio Code](https://code.visualstudio.com/) : Configuration de barbu, l'IDE n'est pas spécialisé C++.
+* [Visual Studio Code](https://code.visualstudio.com/) : Configuration de barbu, l'IDE n'est pas spécialisé C++.<br/>
+Exemple de configuration simple pour Visual Studio Code : [projet.code/](projet.code/).
 
 Il y en a d'autres . . .
 
