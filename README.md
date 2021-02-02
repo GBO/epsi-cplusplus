@@ -53,7 +53,9 @@ Sous forme d'exercices à l'image des travaux dirigés : 4-5 exercices.
 * Références C++ :
   * [cplusplus.com](https://www.cplusplus.com/)
   * [cppreference.com [FR]](https://fr.cppreference.com/w/)
-
+* Quelques conventions de nommage (code style) :
+  * [C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html) de Geotechnical Software Services
+  * [cppbestpractices](https://github.com/lefticus/cppbestpractices/blob/master/03-Style.md) de [Jason Turner](https://github.com/lefticus)
 
 <br/><br/>
 
