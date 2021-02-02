@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-    // Exercice 4.3
+    // Exercice 4.4
     vector<int> v;
     // Les quelques ajouts de l'exercice d'avant
     v.push_back(12);

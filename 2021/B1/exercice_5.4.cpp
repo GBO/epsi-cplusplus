@@ -26,7 +26,7 @@ void inverser_parametres(double& a, double& b) {
 
 int main(int argc, char **argv)
 {
-    // Exercice 5.1
+    // Exercice 5.4
     int swap_a = 666, swap_b = 333;
 
     cout << "Avant : " << swap_a << " / " << swap_b << endl;
