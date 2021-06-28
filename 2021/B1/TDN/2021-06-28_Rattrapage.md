@@ -1,4 +1,4 @@
-# TDN1 - 28/06/2021
+# TDN - 28/06/2021
 Sources: https://github.com/GBO/epsi-cplusplus/blob/master/2021/B1/TDN/2021-06-28_Rattrapage.md
 
 **Attendu en fin de session** :
